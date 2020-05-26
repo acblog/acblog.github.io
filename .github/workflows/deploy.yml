@@ -1,0 +1,26 @@
+name: Deploy
+on:
+  push:
+  repository_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    continue-on-error: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Generate Frontend
+        uses: acblog/wasm-ghpages-generate-action@master
+      - name: Generate Backend
+        uses: acblog/static-backend-generate-action@master
+        with:
+          dist: "./dist/data"
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.PUSH_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: dist
+          CLEAN: true
