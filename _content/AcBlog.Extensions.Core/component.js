@@ -10,9 +10,10 @@ window.AcBlog_Extensions_Core = {
         }
         else {
             const key = keys[0];
+            const cache = await caches.open(key);
             var req = new Request(path);
             if (forceUpdate || (!cache.match(req))) {
-                await caches.open(key).then(cache => cache.add(req));
+                await cache.add(req);
             }
         }
     },
