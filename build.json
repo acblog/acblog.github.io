@@ -1,1 +1,1 @@
-{ "Build": { "Commit": "04c4409ed2e81a4c919fcbc860fef0b7c447cf6a", "Branch": "refs/heads/master", "BuildDate": "Sun Jul  5 11:05:36 UTC 2020", "Repository": "acblog/acblog" } }
+{ "Build": { "Commit": "11e0d9dcc5d3ca9ce813a55ff23cafbd2c629d77", "Branch": "refs/heads/master", "BuildDate": "Mon Jul  6 06:29:55 UTC 2020", "Repository": "acblog/acblog", "Version": "0.0.1.39-preview" } }
