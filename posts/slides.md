@@ -1,6 +1,6 @@
 ---
 title: How AcBlog render slides
-keywords:
+category:
   - sample
 type: slides
 ---

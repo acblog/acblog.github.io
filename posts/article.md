@@ -1,6 +1,6 @@
 ---
 title: How AcBlog render articles
-keywords:
+category:
   - sample
 ---
 
