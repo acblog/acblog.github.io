@@ -1,6 +1,5 @@
 {
     "acblog": {
-        "CurrentRemote": "origin",
         "Properties": {
             "remote.origin.generator.baseAddress": "https://acblog.github.io"
         }
