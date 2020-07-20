@@ -1,7 +1,9 @@
 {
     "acblog": {
         "Properties": {
-            "remote.origin.generator.baseAddress": "https://acblog.github.io"
+            "Raw": {
+                "remote.origin.generator.baseAddress": "https://acblog.github.io"
+            }
         }
     }
 }
