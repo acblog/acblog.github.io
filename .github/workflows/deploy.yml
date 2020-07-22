@@ -24,3 +24,23 @@ jobs:
           BRANCH: master
           FOLDER: dist
           CLEAN: true
+  mirror:
+    needs: update
+    runs-on: ubuntu-latest
+    continue-on-error: false
+    steps:
+      - name: mirror
+        run: |
+          git clone "https://github.com/acblog/acblog.github.io"
+          cd "acblog.github.io"
+          git remote add gitee "https://stardustdl:${{ secrets.GITEE_KEY }}@gitee.com/acblog/acblog.git"
+          git remote set-head origin -d
+          git push gitee --prune +refs/remotes/origin/*:refs/heads/* +refs/tags/*:refs/tags/*
+          cd ..
+      - name: reload
+        uses: mizuka-wu/gitee-pages-action@v1.0.0
+        with:
+          repository: acblog/acblog
+          cookie: ${{ secrets.GITEE_COOKIE }}
+          branch: master
+          https: true
