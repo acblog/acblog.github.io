@@ -5,7 +5,7 @@ Introduction
 Deep-dive
 ...
 Introduction
-</description><pubDate>Sat, 25 Jul 2020 13:34:54 Z</pubDate><a10:updated>2020-07-25T13:34:54Z</a10:updated><a10:content type="html">&lt;p&gt;class: center, middle&lt;/p&gt;
+</description><pubDate>Sun, 26 Jul 2020 06:18:13 Z</pubDate><a10:updated>2020-07-26T06:18:13Z</a10:updated><a10:content type="html">&lt;p&gt;class: center, middle&lt;/p&gt;
 &lt;h1 id="title"&gt;Title&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h1 id="agenda"&gt;Agenda&lt;/h1&gt;
@@ -16,11 +16,11 @@ Introduction
 &lt;/ol&gt;
 &lt;hr /&gt;
 &lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
-</a10:content></item><item><guid isPermaLink="false">protected</guid><link>https://acblog.github.io/posts/protected</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category>sample</category><title>How AcBlog protect posts (password: 123)</title><description>Protected Post</description><pubDate>Sat, 25 Jul 2020 13:34:54 Z</pubDate><a10:updated>2020-07-25T13:34:54Z</a10:updated><a10:content type="html">&lt;p&gt;/thXbpYhAlXq0W9U6WTkw8t59pN7XK3+1pYgL7Rca8vLd+B5UpuqayG5Bh9AtxdUxf/o82cs7USlHJOW5eep9w==&lt;/p&gt;
+</a10:content></item><item><guid isPermaLink="false">protected</guid><link>https://acblog.github.io/posts/protected</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category>sample</category><title>How AcBlog protect posts (password: 123)</title><description>Protected Post</description><pubDate>Sun, 26 Jul 2020 06:18:13 Z</pubDate><a10:updated>2020-07-26T06:18:13Z</a10:updated><a10:content type="html">&lt;p&gt;/thXbpYhAlXq0W9U6WTkw8t59pN7XK3+1pYgL7Rca8vLd+B5UpuqayG5Bh9AtxdUxf/o82cs7USlHJOW5eep9w==&lt;/p&gt;
 </a10:content></item><item><guid isPermaLink="false">article</guid><link>https://acblog.github.io/posts/article</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category>sample</category><title>How AcBlog render articles</title><description>This markdown document is modified from the demo of markdown-it.
 h1 Heading 8-)
 h2 Heading
-h3 Headin</description><pubDate>Sat, 25 Jul 2020 13:34:54 Z</pubDate><a10:updated>2020-07-25T13:34:54Z</a10:updated><a10:content type="html">&lt;p&gt;This markdown document is modified from the demo of markdown-it.&lt;/p&gt;
+h3 Headin</description><pubDate>Sun, 26 Jul 2020 06:18:13 Z</pubDate><a10:updated>2020-07-26T06:18:13Z</a10:updated><a10:content type="html">&lt;p&gt;This markdown document is modified from the demo of markdown-it.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h1 id="h1-heading-8"&gt;h1 Heading 8-)&lt;/h1&gt;
 &lt;h2 id="h2-heading"&gt;h2 Heading&lt;/h2&gt;
@@ -306,7 +306,7 @@ Crash --&gt; [*]
 </a10:content></item><item><guid isPermaLink="false">README</guid><link>https://acblog.github.io/posts/README</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category></category><title>What's AcBlog</title><description>AcBlog
 CI CD Homepage Mirrors License
 An open source extensible static &amp; dynamic blog system.
-The ho</description><pubDate>Sat, 25 Jul 2020 13:34:54 Z</pubDate><a10:updated>2020-07-25T13:34:54Z</a10:updated><a10:content type="html">&lt;h1 id="acblog"&gt;AcBlog&lt;/h1&gt;
+The ho</description><pubDate>Sun, 26 Jul 2020 06:18:13 Z</pubDate><a10:updated>2020-07-26T06:18:13Z</a10:updated><a10:content type="html">&lt;h1 id="acblog"&gt;AcBlog&lt;/h1&gt;
 &lt;p&gt;&lt;img src="https://github.com/acblog/acblog/workflows/CI/badge.svg" alt="CI" /&gt; &lt;img src="https://github.com/acblog/acblog/workflows/CD/badge.svg" alt="CD" /&gt; &lt;a href="https://github.com/acblog/acblog.github.io"&gt;&lt;img src="https://img.shields.io/github/workflow/status/acblog/acblog.github.io/Deploy/src?label=homepage" alt="Homepage" /&gt;&lt;/a&gt; &lt;img src="https://img.shields.io/github/workflow/status/acblog/mirrors/Mirror/master?label=mirrors" alt="Mirrors" /&gt; &lt;img src="https://img.shields.io/github/license/acblog/acblog.svg" alt="License" /&gt;&lt;/p&gt;
 &lt;p&gt;An open source extensible static &amp;amp; dynamic blog system.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/259549650/50d50d00-9073-11ea-8e72-0d3f1d3a7d8c" alt="" /&gt;&lt;/p&gt;
