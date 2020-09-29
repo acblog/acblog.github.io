@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AcBlog</title><link>https://acblog.github.io/</link><description>A blog system based on WebAssembly.</description><managingEditor></managingEditor><item><guid isPermaLink="false">article</guid><link>https://acblog.github.io/posts/article</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category>sample</category><title>How AcBlog render articles</title><description>This markdown document is modified from the demo of markdown-it.
 h1 Heading 8-)
 h2 Heading
-h3 Headin</description><pubDate>Tue, 29 Sep 2020 03:10:56 Z</pubDate><a10:updated>2020-09-29T03:10:56Z</a10:updated><a10:content type="html">&lt;p&gt;This markdown document is modified from the demo of markdown-it.&lt;/p&gt;
+h3 Headin</description><pubDate>Tue, 29 Sep 2020 03:20:34 Z</pubDate><a10:updated>2020-09-29T03:20:34Z</a10:updated><a10:content type="html">&lt;p&gt;This markdown document is modified from the demo of markdown-it.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h1 id="h1-heading-8"&gt;h1 Heading 8-)&lt;/h1&gt;
 &lt;h2 id="h2-heading"&gt;h2 Heading&lt;/h2&gt;
@@ -284,7 +284,7 @@ Crash --&gt; [*]
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-</a10:content></item><item><guid isPermaLink="false">protected</guid><link>https://acblog.github.io/posts/protected</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category>sample</category><title>How AcBlog protect posts (password: 123)</title><description>Protected Post</description><pubDate>Tue, 29 Sep 2020 03:10:56 Z</pubDate><a10:updated>2020-09-29T03:10:56Z</a10:updated><a10:content type="html">&lt;p&gt;eyJUYWciOiIiLCJSYXciOiJcbiMgQSBQcm90ZWN0ZWQgUG9zdFxuXG4uLi5cbiJ9&lt;/p&gt;
+</a10:content></item><item><guid isPermaLink="false">protected</guid><link>https://acblog.github.io/posts/protected</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category>sample</category><title>How AcBlog protect posts (password: 123)</title><description>Protected Post</description><pubDate>Tue, 29 Sep 2020 03:20:34 Z</pubDate><a10:updated>2020-09-29T03:20:34Z</a10:updated><a10:content type="html">&lt;p&gt;eyJUYWciOiIiLCJSYXciOiJcbiMgQSBQcm90ZWN0ZWQgUG9zdFxuXG4uLi5cbiJ9&lt;/p&gt;
 </a10:content></item><item><guid isPermaLink="false">slides</guid><link>https://acblog.github.io/posts/slides</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category>sample</category><title>How AcBlog render slides</title><description>class: center, middle
 Title
 Agenda
@@ -292,7 +292,7 @@ Introduction
 Deep-dive
 ...
 Introduction
-</description><pubDate>Tue, 29 Sep 2020 03:10:56 Z</pubDate><a10:updated>2020-09-29T03:10:56Z</a10:updated><a10:content type="html">&lt;p&gt;class: center, middle&lt;/p&gt;
+</description><pubDate>Tue, 29 Sep 2020 03:20:34 Z</pubDate><a10:updated>2020-09-29T03:20:34Z</a10:updated><a10:content type="html">&lt;p&gt;class: center, middle&lt;/p&gt;
 &lt;h1 id="title"&gt;Title&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h1 id="agenda"&gt;Agenda&lt;/h1&gt;
@@ -306,7 +306,7 @@ Introduction
 </a10:content></item><item><guid isPermaLink="false">README</guid><link>https://acblog.github.io/posts/README</link><a10:author><a10:name>StardustDL</a10:name><a10:uri>https://acblog.github.io</a10:uri></a10:author><category></category><title>What's AcBlog</title><description>AcBlog
 CI CD Homepage Mirrors License
 An open source extensible static &amp; dynamic blog system.
-The ho</description><pubDate>Tue, 29 Sep 2020 03:10:56 Z</pubDate><a10:updated>2020-09-29T03:10:56Z</a10:updated><a10:content type="html">&lt;h1 id="acblog"&gt;AcBlog&lt;/h1&gt;
+The ho</description><pubDate>Tue, 29 Sep 2020 03:20:34 Z</pubDate><a10:updated>2020-09-29T03:20:34Z</a10:updated><a10:content type="html">&lt;h1 id="acblog"&gt;AcBlog&lt;/h1&gt;
 &lt;p&gt;&lt;img src="https://github.com/acblog/acblog/workflows/CI/badge.svg" alt="CI" /&gt; &lt;img src="https://github.com/acblog/acblog/workflows/CD/badge.svg" alt="CD" /&gt; &lt;a href="https://github.com/acblog/acblog.github.io"&gt;&lt;img src="https://img.shields.io/github/workflow/status/acblog/acblog.github.io/Deploy/src?label=homepage" alt="Homepage" /&gt;&lt;/a&gt; &lt;img src="https://img.shields.io/github/workflow/status/acblog/mirrors/Mirror/master?label=mirrors" alt="Mirrors" /&gt; &lt;img src="https://img.shields.io/github/license/acblog/acblog.svg" alt="License" /&gt;&lt;/p&gt;
 &lt;p&gt;An open source extensible static &amp;amp; dynamic blog system.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://repository-images.githubusercontent.com/259549650/50d50d00-9073-11ea-8e72-0d3f1d3a7d8c" alt="" /&gt;&lt;/p&gt;
