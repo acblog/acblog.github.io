@@ -1,6 +1,6 @@
 {
   "name": "prismjs",
-  "version": "1.21.0",
+  "version": "1.22.0",
   "description": "Lightweight, robust, elegant syntax highlighting. A spin-off project from Dabblet.",
   "main": "prism.js",
   "style": "themes/prism.css",
@@ -63,7 +63,7 @@
     ]
   }
 
-,"_resolved": "https://mirrors.cloud.tencent.com/npm/prismjs/-/prismjs-1.21.0.tgz"
-,"_integrity": "sha512-uGdSIu1nk3kej2iZsLyDoJ7e9bnPzIgY0naW/HdknGj61zScaprVEVGHrPoXqI+M9sP0NDnTK2jpkvmldpuqDw=="
-,"_from": "prismjs@1.21.0"
+,"_resolved": "https://mirrors.cloud.tencent.com/npm/prismjs/-/prismjs-1.22.0.tgz"
+,"_integrity": "sha512-lLJ/Wt9yy0AiSYBf212kK3mM5L8ycwlyTlSxHBAneXLR0nzFMlZ5y7riFPF3E33zXOF2IH95xdY5jIyZbM9z/w=="
+,"_from": "prismjs@1.22.0"
 }
